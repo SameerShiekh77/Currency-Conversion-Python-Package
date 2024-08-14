@@ -1,0 +1,6 @@
+testing
+setup.py
+dist
+build
+*.egg-info
+venv
