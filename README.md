@@ -1,6 +1,6 @@
 # Currency Converter
 
-    A simple Python package for fetching real-time currency conversion rates to help the many developers issue and simply they can use it without using any third party resource
+A simple Python package for fetching real-time currency conversion rates to help the many developers issue and simply they can use it without using any third party resource
 
 
 ## Features
