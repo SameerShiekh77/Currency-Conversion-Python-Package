@@ -14,7 +14,7 @@ def conversion_rate(base_currency_code: str, conversion_currency_code: str):
         
     tokens = []
     index = random.randint(0, len(tokens) - 1)  # Fix the index to prevent out-of-bounds error
-    url = f"https://v6.exchangerate-api.com/v6/{tokens[index]}/latest/{base_currency_code.upper()}"
+    url = ""
 
     # Fetch the data from the API
     r = requests.get(url)
